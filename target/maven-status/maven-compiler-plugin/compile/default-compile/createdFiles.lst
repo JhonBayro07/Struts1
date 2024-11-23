@@ -1,0 +1,8 @@
+com\mycompany\struts1\register\action\Register.class
+com\mycompany\struts1\model\MessageStore.class
+com\mycompany\struts1\JAXRSConfiguration.class
+com\mycompany\struts1\model\Person.class
+com\mycompany\struts1\registros\action\Registros.class
+com\mycompany\struts1\action\HelloWorldAction.class
+com\mycompany\struts1\model\Usuario.class
+com\mycompany\struts1\resources\JavaEE8Resource.class
